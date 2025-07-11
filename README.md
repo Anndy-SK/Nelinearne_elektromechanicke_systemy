@@ -1,6 +1,6 @@
 # Technická Univerzita v Košiciach, fakulta elektrotechniky a informatiky
 
-# Náavrh stabilného riadenia SISO
+# Návrh stabilného riadenia SISO
 - diferenciálne rovnice, Ljapunovová funkcia a derivácia
 - návrh stabilného systému v Simulinku
 - matematický a referenčný model s blokovou schémou
